@@ -1,3 +1,3 @@
 # My solutions
 
-Source: [`https://the-winter.github.io/codingjs/`]
+Link to challenge: [`https://the-winter.github.io/codingjs/`]
